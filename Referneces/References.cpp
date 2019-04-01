@@ -34,7 +34,7 @@ int main()		//main function
 	system("pause");		//pause screen
 	cout << "\n";		//spacer
 
-	// print account values
+	// print account values 
 	printAccounts(myAccount, terroristsAccount);	//call function
 	system("pause");		//pause screen
 	cout << "\n";		//spacer
